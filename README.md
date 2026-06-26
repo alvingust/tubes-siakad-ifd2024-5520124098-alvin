@@ -4,6 +4,16 @@
 
 SIAKAD adalah aplikasi web Sistem Informasi Akademik berbasis Laravel yang dirancang untuk mendigitalkan proses manajemen akademik di perguruan tinggi. Aplikasi ini mempermudah interaksi antara mahasiswa, dosen, dan staf administrasi (admin) dalam mengelola data perkuliahan, jadwal, serta rencana studi secara daring dan real-time.
 
+## Akun Demo
+
+Admin/Dosen
+Email: imam@unsur.ac.id
+Password: 123
+
+Mahasiswa
+Email: alvin.gustiara@unsur.ac.id
+Password: 123
+
 ## Fitur Utama & Fungsi Halaman
 
 Aplikasi ini dibagi menjadi 3 area utama berdasarkan peran pengguna (Role):
